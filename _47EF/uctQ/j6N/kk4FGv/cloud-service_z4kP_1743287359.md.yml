@@ -22,7 +22,6 @@ matrix:
       virt: vm
 
 
-jdk:
   - openjdk11
   - openjdk8
 
