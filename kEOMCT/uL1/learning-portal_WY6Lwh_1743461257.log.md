@@ -25,7 +25,6 @@ _Before_ submitting a pull request, please make sure the following is done…
 
    Note: Replace `<your_username>` with your GitHub username
 
-2. makeitopen.com uses [Yarn](https://code.facebook.com/posts/1840075619545360) for running a local development server. If you haven't already done so, please [install yarn](https://yarnpkg.com/en/docs/install).
 
 3. Install makeitopen.com dependencies by running the following in terminal:
 
