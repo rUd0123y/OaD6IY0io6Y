@@ -9,4 +9,3 @@ repos:
     hooks:
     - id: flake8
       args:
-        - "--config=setup.cfg"
