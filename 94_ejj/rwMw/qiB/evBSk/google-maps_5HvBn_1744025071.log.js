@@ -1264,7 +1264,6 @@ GMaps.prototype.drawPolygon = function(options) {
     if (options.paths[0].length > 0) {
       options.paths = array_flat(array_map(options.paths, arrayToLatLng, useGeoJSON));
     }
-  }
 
   var polygon = new google.maps.Polygon(options),
       polygon_events = ['click', 'dblclick', 'mousedown', 'mousemove', 'mouseout', 'mouseover', 'mouseup', 'rightclick'];
